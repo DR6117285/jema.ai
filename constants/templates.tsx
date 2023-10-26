@@ -21,7 +21,7 @@ export const TEMPLATES: Template[] = [
         "id": "a6dc-0f21-c102-6c22",
         "title": "Amazon Product Description (paragraph)",
         "description": "Create compelling product descriptions for Amazon listings.",
-        "command": "Tell a joke about cats.",
+        "command": "Create compelling product descriptions for Amazon listings.",
         "icon": `<i class="fab fa-aws text-primary"></i>`,
         "categories": ["ecommerce", "ads"],
         inputs: [
