@@ -140,31 +140,7 @@ export const TEMPLATES: Template[] = [
         "id": "eb38-d6a3-3b3c-d790",
         "title": "Blog Post Outline",
         "description": "Create lists and outlines for articles, for example for 'How to' style blog posts and articles.",
-        "command": " It should all encompass a gripping introduction informative main content and a conclusive calltoaction that reinforces your blog's primary objective
-3 SEODriven Approach
-    Formulate a robust SEO strategy integrating primary and related keywords that cater to your topic's search potential Craft an enticing meta description strategize for backlink acquisition and plan engaging SEOconscious headers and subheaders to organize your content effectively
-4 Content Drafting with a Human Touch
-    Commence with your content creation Design an engaging opener that speaks directly to your audience's challenges or curiosities followed by detailed sections as outlined that offer profound insights practical guidance and innovative solutions Incorporate narrative elements to keep your reader invested ensuring your content exudes authenticity expertise and empathy
-5 Enhancement Through AI
-    Employ AIdriven tools to spark additional creative content ideas find alternatives for repetitive terminology and conceptualize engaging visual or multimedia elements Preserve a balance by maintaining your unique style and voice ensuring the technology complements rather than overshadows your human insight
-6 Interactive Audience Engagement
-    Prepare for direct audience communication postpublication Create engaging social media content draft responses to potential comments and design interactive email newsletters Explore incorporating interactive content like polls quizzes or live Q&A sessions to sustain and heighten reader interest
-7 Meticulous Review and Refinement
-    Conduct a thorough review of your content focusing on SEO elements readability and user engagement levels Utilize AI assistance for grammar corrections and stylistic enhancements Confirm that the content aligns with your initial outline and adheres to the highest quality benchmarks
-8 Final Touches and Multimedia Integration
-    Enrich your post with multimedia elements selecting relevant optimized images videos or infographics that supplement your written content Verify these elements for optimal loading efficiency and SEO compatibility
-9 Strategic Publication and Promotion
-    Proceed to publish your blog post Implement your promotional strategies across various platforms including social media blasts email campaigns and strategic outreach for guest posting or backlink opportunities Keep a close eye on performance indicators and audience interaction
-10 PostPublication Analysis and Adaptation
-     Postrelease continuously monitor your content's performance through various metrics audience feedback and overall engagement Use these insights for iterative improvements followup content or to guide future topic exploration
-Important Reminder
- Remember while AI offers powerful assistance it doesn't replace the unique insights personal expertise and authentic connection you bring to your content Utilize AI as an enhancing tool but rely on your intuition and expertise to truly resonate with your audience Stay authentic offer undeniable value and remain agile in the dynamic world of digital content creation
-This instructional guide is designed to be a comprehensive roadmap assisting you from the initial contemplation stages of your blog post creation through to the postpublication analysis and engagement ensuring each step is detailed actionable and designed to create a standout presence in the digital space
-PLUGINMSTR1PluginIdentification 1aPluginId 1bPluginOp2a2b 2UnderstandingModel 2aModelUndrstnd 2bCntxtAdpt3a3b 3Integration 3aSequIntegr 3bParllIntegr4a4b 4PerformanceMonitoring 4aPerfMon 4bItrtvImprv5a5b 5ResultInterpretation 5aRsltIntrprt 5bUsrInstrct
-TYPICAL WORKFLOW
-CntGnWkflw1CntxtAnlyss 1aIdPurps2a3a 1bDfTpics2b3b 1cCrtvDrctn2c3c 2TskFrmt 2aSctnGdlns3a4a 2bTpcDpth3b5a 2cDsrdLng3c4b5b 3AplTech 3aImplmnt 〔AvdAIDtct〕 7a7b 3bUtilzUnqVc4a6a 3cMntn12yoComprhn5b6b 4ShrtPnchyStl 4aPnchnssEncrg5a6a 4bWrtngTchnqs5b6b 5EdtEnhnc 5aFcsOrgnlty8a 5bSmplfyLng8b 6HmnCrtvty 6aIncrprtLfExprnc8a 6bRlyEmtns8b 7FrmtOtpt 7aAsmbSctns8a 7bVrfyGdlnsMt8b 8FnlRvw 8aCntntEvalRslt 8bFdbkLpItrtn
-TASKBriefly introduce yourself and ask how you can helpTask
-: ",
+        "command": "Create lists and outlines for an article: ",
         "icon": `<i class="fas fa-fire text-primary"></i>`,
         "categories": ["blog", "seo"],
         "inputs": [
